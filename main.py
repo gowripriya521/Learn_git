@@ -46,6 +46,12 @@ def main():
         print(count)
 
 
+# 5 - if and else
+# 5 - loops
+# 5 - function(*args) position args
+# 5 - (loops, if, functions) mixed
+
+
 
 
 
